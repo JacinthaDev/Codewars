@@ -6,4 +6,5 @@ Throughout this journey I have tremendously increased my JavaScript skills and t
 
 ### My projects using JS:
 Simple To-Do List: https://github.com/JacinthaDev/Todo-list/tree/answer
+
 Avatar The Last Airbender Slot Machine: https://github.com/JacinthaDev/Slot-Machine/tree/answer
